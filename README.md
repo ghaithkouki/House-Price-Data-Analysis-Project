@@ -10,7 +10,7 @@ It includes:
 - 🔹 **Model Evaluation & Insights**
 
 📓 Explore the full notebook here:  
-[House_Sales_King_County_Final_With_Conclusions.ipynb](House_Sales_King_County_USA.ipynb)
+[House_Sales_King_County_USA.ipynb](House_Sales_King_County_USA.ipynb)
 
 ---
 
