@@ -1,5 +1,5 @@
 # 🏡 House Sales in King County, USA
-🔗 Connect with me on [LinkedIn]([https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/](https://www.linkedin.com/in/ghaith-kouki-4010a3329/))
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/ghaith-kouki-4010a3329/)
 
 ## 📖 Overview
 This project analyzes **house sales data in King County (Seattle area, USA)** to uncover key factors that influence housing prices.  
